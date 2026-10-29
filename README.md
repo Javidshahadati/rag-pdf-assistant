@@ -30,16 +30,16 @@
 ## 🖼️ تصاویر
 
 ### رابط کاربری Gradio
-![Gradio Interface](screenshot1.png)
+![Gradio Interface](screenshot1.jpg)
 
 ### جواب درست — Transformer چیست؟
-![Transformer Answer](screenshot2.png)
+![Transformer Answer](screenshot2.jpg)
 
 ### جواب درست — تفاوت BERT و GPT
-![BERT vs GPT](screenshot3.png)
+![BERT vs GPT](screenshot3.jpg)
 
 ### عدم توهم — پایتخت فرانسه
-![Not in Text](screenshot4.png)
+![Not in Text](screenshot4.jpg)
 
 ## 📊 نتایج تست
 
